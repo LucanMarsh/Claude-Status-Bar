@@ -2,6 +2,10 @@
 
 A custom status line for [Claude Code](https://claude.com/claude-code), rendered as a two-line prompt showing model, context usage, cost, elapsed time, rate limits, reasoning effort, and running subagents.
 
+![Status line demo](demo.png)
+
+*(Mockup with sample data illustrating the layout — actual colors/values depend on your live session.)*
+
 ## Features
 
 - Gradient/ASCII context-window usage bar with warning threshold
